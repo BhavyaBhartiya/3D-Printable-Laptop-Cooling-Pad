@@ -76,4 +76,4 @@ This is an open source laptop cooling pad designed to force air into the laptop 
  35    | Y2                                          | 1       | ABM8-272-T3                   |         | C20625731            |                      | easyeda2kicad:CRYSTAL-SMD_4P-L2.5-W2.0-BL-1                 |                                                                          
  36    | Fan                                        | 2       | Arctic P12 Pro                   |         | None           |                      | None                 |  
 
-### Credits - to kaipereira for their excellent guide on [how to buid a custom devboard](https://github.com/KaiPereira/build-a-devboard)
+### Credits - to KaiPereira for their excellent guide on [how to buid a custom devboard](https://github.com/KaiPereira/build-a-devboard)
