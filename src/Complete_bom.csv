@@ -31,4 +31,5 @@ U2,SOT-23,1,MCP1700x-330xxTT,C39051,0.409,0.409,https://www.lcsc.com/product-det
 U5,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,1,W25Q16JVUXIQ TR,C2843335,1.5882,1.5882,https://www.lcsc.com/product-detail/C2843335.html
 U6,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,1,RP2040,C2040,0.9968,0.9968,https://www.lcsc.com/product-detail/C2040.html
 Y2,CRYSTAL-SMD_4P-L2.5-W2.0-BL-1,1,ABM8-272-T3,C20625731 ,0.62,0.62,https://lcsc.com/product-detail/Crystals_Abracon-LLC-ABM8-272-T3_C20625731.html
-TOTAL,,64,,,,7.1597,
+Arctic P12 Pro,,2,,,16.23,32.46,https://www.arctic.de/en/P12-Pro/ACFAN00305A
+TOTAL,,66,,,,39.6197,
