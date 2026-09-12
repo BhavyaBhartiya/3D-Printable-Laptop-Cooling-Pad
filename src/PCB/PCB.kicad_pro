@@ -156,7 +156,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Laptop Cooling Pad PCB.kicad_pro",
+    "filename": "PCB.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -687,8 +687,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Laptop Cooling Pad PCB.kicad_sch",
-        "name": "Root",
+        "filename": "PCB.kicad_sch",
+        "name": "PCB",
         "uuid": "01583158-b7fe-46b8-83ca-564bb91b7955"
       }
     ],
